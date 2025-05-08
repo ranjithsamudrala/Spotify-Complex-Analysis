@@ -24,14 +24,11 @@ This project showcases an interactive Power BI report built using Spotify music 
 ### 👨‍🎤 Top Artists Analysis  
 ![Top Artists](https://github.com/ranjithsamudrala/images/blob/main/sp3.png)
 
-### 🕒 Track Duration Analysis  
-![Duration Analysis](https://github.com/ranjithsamudrala/images/blob/main/sp1.pn)
-
 ---
 
 ## 🎥 Live Demo Video
 
-[![Watch the video](https://github.com/ranjithsamudrala/images/blob/main/spotify%20wallpaper.jpg)](https://youtu.be/l_3OK3UpZG4)
+[![Watch the video](https://github.com/ranjithsamudrala/images/blob/main/spotify%20wallpaper.jpg)](https://youtu.be/CilQy4TGOic)
 
 > ▶️ *Click the thumbnail above to watch the demo on YouTube.*
 
