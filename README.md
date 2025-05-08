@@ -1,5 +1,6 @@
 # Spotify-Complex-Analysis
 # 🎧 Spotify Music Data Analysis – Power BI Interactive Dashboard
+![Spotify](https://github.com/ranjithsamudrala/images/blob/main/spotify%20wallpaper.jpg)
 
 This project showcases an interactive Power BI report built using Spotify music streaming data. The dashboard provides insights into listening behavior, most played songs and artists, and other key metrics through dynamic visuals and user-friendly navigation.
 
